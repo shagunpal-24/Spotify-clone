@@ -14,7 +14,9 @@ Designed to mimic the look and feel of the official Spotify web player.
 - JavaScript (optional)
 
 ## 📸 Preview
-![Screenshot](img/screenshot.png)
+<p align="center">
+  <img src="img/screenshot.png" alt="Spotify Clone Screenshot" width="80%">
+</p>
 
 ## 📁 Project Structure
 📦 Spotify Clone
